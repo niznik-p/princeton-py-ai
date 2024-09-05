@@ -23,4 +23,8 @@ I then tried to explain this course to each of my AI assistants and their result
 
 This is a more ephemeral problem, but I figured I'd give it a shot. In particular, I'm interested in how creative the default solution was at trying to look a person's birth year on their personal website. None of the solutions were particularly great.
 
+## Other Random Resources
+
+I've found this guide on different ways to prompt assistants very useful: https://www.promptingguide.ai/
+
 
