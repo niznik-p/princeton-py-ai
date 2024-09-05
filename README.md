@@ -1,13 +1,13 @@
 # princeton-py-ai
-Exploring how Copilot, ChatGPT, and Gemini can help us code.
+Exploring how Copilot, ChatGPT, and Gemini can help us code. (With a little Claude now too!)
 
 ## One-Off Tests
 
-bad_loop.py is just a simple program I wrote with a while loop so I could ask the assistants how to improve it.
+**bad_loop.py** is just a simple program I wrote with a while loop so I could ask the assistants how to improve it.
 
-i_like_to_wait.py is another simple program where I tried to do matrix math but decided to be a little silly and did it in a for loop and asked the program to wait so the computer wouldn't overheat or get mad at me.
+**i_like_to_wait.py** is another simple program where I tried to do matrix math but decided to be a little silly and did it in a for loop and asked the program to wait so the computer wouldn't overheat or get mad at me.
 
-web_scrape_lpga_gemini.py was from an attempt I made to ask the assistants to generate code to determine what the next LPGA tournament was. ChatGPT and Copilot went the API route, so I decided to work with Gemini's attempt and did not need to edit too many lines of code to get it working (even if it's buggy and not particularly reliable!).
+**web_scrape_lpga_gemini.py** was from an attempt I made to ask the assistants to generate code to determine what the next LPGA tournament was. ChatGPT and Copilot went the API route, so I decided to work with Gemini's attempt and did not need to edit too many lines of code to get it working (even if it's buggy and not particularly reliable!).
 
 ## Goofy Obstacle Course
 
